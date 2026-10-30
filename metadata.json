@@ -1,0 +1,6 @@
+{
+  "name": "FactoryShield Monitor App",
+  "description": "Industrial cybersecurity monitoring and threat detection prototype for small and medium-sized factories (PLCs, SCADA, HMI, IIoT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
